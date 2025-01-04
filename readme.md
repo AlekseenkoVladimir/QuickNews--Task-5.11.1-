@@ -12,3 +12,6 @@
 
 Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html.
 
+## Ссылка на образец проекта
+
+[https://alekseenkovladimir.github.io/QuickNews--Task-5.11.1-/](https://alekseenkovladimir.github.io/QuickNews--Task-5.11.1-/)

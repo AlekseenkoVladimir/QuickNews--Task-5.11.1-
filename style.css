@@ -13,7 +13,7 @@ header {
 
 h1 {
     color: #d86530;
-    font-size: 4rem;
+    font-size: 6rem;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -30,7 +30,7 @@ article {
 }
 
 article:nth-of-type(2n) {
-    background-color: #f1c3c3;
+    background-color: #d865301e;
 }
 
 article a {
@@ -54,9 +54,12 @@ article:nth-of-type(2) h2::before {
     background: red;
     padding: 5px;
     margin-right: 20px;
-    color: #f1c3c3;
+    color: #fbede6;
 }
 
+article:first-of-type h2::before {
+    color: #fff;
+}
 
 .article-meta {
     color: rgb(134, 142, 150);
